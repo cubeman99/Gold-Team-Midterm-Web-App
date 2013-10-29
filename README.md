@@ -1,3 +1,5 @@
 Gold-Team-Midterm-Web-App
 =========================
-asdfasdf
+
+Mockup Images Imgur URL:
+imgur.com/a/9eEJD
